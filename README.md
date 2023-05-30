@@ -1,3 +1,6 @@
+# GitHub doesn't allow forks to release via Actions.
+# Use https://github.com/samicrusader/ffmpeg-autobuild-dynamiclink
+
 # FFmpeg Latest Autobuilds for Windows
 
 ![Build FFmpeg on push](https://github.com/samicrusader/ffmpeg-autobuild-dynamiclink/workflows/Build%20FFmpeg%20on%20push/badge.svg)
